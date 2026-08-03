@@ -1,6 +1,6 @@
-# mallard-ui
+# Mallard-UI
 
-[mallard](https://github.com/li-qs/mallard) 链路追踪系统的 Web 控制台。业务应用通过 App 凭证上报 span，运营人员在控制台检索 Trace、查看链路瀑布图、管理上报 App。
+[Mallard](https://github.com/li-qs/mallard) 链路追踪系统的 Web 控制台。业务应用通过 App 凭证上报 span，运营人员在控制台检索 Trace、查看链路瀑布图、管理上报 App。
 
 ## 功能
 
