@@ -7,7 +7,7 @@ import { useAuthStore } from '../store/auth'
 import type { ApiResponse, LoginRes } from '../types'
 
 const baseURL: string =
-  import.meta.env.VITE_API_BASE_URL || 'http://localhost:9010'
+  import.meta.env.VITE_API_BASE_URL || '/api'
 
 const http = axios.create({
   baseURL,
